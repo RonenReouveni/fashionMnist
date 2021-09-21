@@ -5,7 +5,6 @@ Using Tensorflow to get .94+ accuracy with CNN's containing layers of batch norm
 ## Overview 
 
 Name: Ronen Reouveni <br/>
-SUID: 631270747 <br/>
 Number: (858)-245-2128 <br/>
 Email: rreouven@syr.edu <br/>
 Program: Masters in Applied Data Science <br/>
